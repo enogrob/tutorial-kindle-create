@@ -1,0 +1,1 @@
+/Applications/Kindle Create.app
